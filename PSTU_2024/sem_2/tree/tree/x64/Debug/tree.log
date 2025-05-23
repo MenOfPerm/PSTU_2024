@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\wanno\OneDrive\Desktop\projects\tree\tree\main.cpp(28,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\wanno\OneDrive\Desktop\projects\tree\tree\main.cpp(34,1): warning C4715: create: значение возвращается не при всех путях выполнения
+C:\Users\wanno\OneDrive\Desktop\projects\tree\tree\main.cpp(68,1): warning C4715: find_min_rec: значение возвращается не при всех путях выполнения
+  tree.vcxproj -> C:\Users\wanno\OneDrive\Desktop\projects\tree\x64\Debug\tree.exe
